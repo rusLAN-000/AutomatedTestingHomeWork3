@@ -1,0 +1,1 @@
+[![Java CI with Gradle](https://github.com/rusLAN-000/AutomatedTestingHomeWork3/actions/workflows/gradle.yml/badge.svg)](https://github.com/rusLAN-000/AutomatedTestingHomeWork3/actions/workflows/gradle.yml)
